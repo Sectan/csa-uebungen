@@ -1,0 +1,6 @@
+C:\Users\daniel.DESKTOP-N85IFA7\Dropbox\CSA\Uebungen\csa-uebungen\csa-uebungen\ueb01-hello-world\bin\Debug\ueb01-hello-world.exe.config
+C:\Users\daniel.DESKTOP-N85IFA7\Dropbox\CSA\Uebungen\csa-uebungen\csa-uebungen\ueb01-hello-world\bin\Debug\ueb01-hello-world.exe
+C:\Users\daniel.DESKTOP-N85IFA7\Dropbox\CSA\Uebungen\csa-uebungen\csa-uebungen\ueb01-hello-world\bin\Debug\ueb01-hello-world.pdb
+C:\Users\daniel.DESKTOP-N85IFA7\Dropbox\CSA\Uebungen\csa-uebungen\csa-uebungen\ueb01-hello-world\obj\Debug\ueb01-hello-world.csprojResolveAssemblyReference.cache
+C:\Users\daniel.DESKTOP-N85IFA7\Dropbox\CSA\Uebungen\csa-uebungen\csa-uebungen\ueb01-hello-world\obj\Debug\ueb01-hello-world.exe
+C:\Users\daniel.DESKTOP-N85IFA7\Dropbox\CSA\Uebungen\csa-uebungen\csa-uebungen\ueb01-hello-world\obj\Debug\ueb01-hello-world.pdb
